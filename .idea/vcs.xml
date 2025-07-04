@@ -4,6 +4,9 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sl-express-common" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sl-express-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-carriage/sl-express-ms-carriage-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-carriage/sl-express-ms-carriage-domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sl-express-ms-carriage/sl-express-ms-carriage-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sl-express-parent" vcs="Git" />
   </component>
 </project>

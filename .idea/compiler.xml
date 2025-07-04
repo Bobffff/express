@@ -6,7 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="sl-express-ms-carriage-api" />
         <module name="sl-express-gateway" />
+        <module name="sl-express-ms-carriage-domain" />
+        <module name="sl-express-ms-carriage-service" />
         <module name="sl-express-common" />
       </profile>
     </annotationProcessing>

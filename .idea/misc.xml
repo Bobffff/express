@@ -7,6 +7,9 @@
         <option value="$PROJECT_DIR$/sl-express-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/sl-express-common/pom.xml" />
         <option value="$PROJECT_DIR$/sl-express-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-carriage/sl-express-ms-carriage-domain/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-carriage/sl-express-ms-carriage-service/pom.xml" />
+        <option value="$PROJECT_DIR$/sl-express-ms-carriage/sl-express-ms-carriage-api/pom.xml" />
       </list>
     </option>
   </component>
